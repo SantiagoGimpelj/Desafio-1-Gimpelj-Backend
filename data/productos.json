@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Prive",
+    "description": "Cerradura",
+    "price": 10000,
+    "thumbnail": "https://img.com",
+    "code": "P200",
+    "stock": 18
+  },
+  {
+    "id": 2,
+    "title": "Prive",
+    "description": "Cerradura",
+    "price": 10000,
+    "thumbnail": "https://img2.com",
+    "code": "P208",
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "Prive",
+    "description": "Cerradura",
+    "price": 10000,
+    "thumbnail": "https://img3.com",
+    "code": "P205",
+    "stock": 10
+  }
+]
